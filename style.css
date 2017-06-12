@@ -1,0 +1,27 @@
+*{
+box-sizing: padding-box;
+}
+/*.barre_menu{
+  background-color: rgb(41, 38, 37);
+  height: 10vh;
+}
+.titre{
+  border: solid 2px red;
+  height: auto;
+}
+.titre h1 ,h3{
+  color: yellow;
+}*/
+.barremenu{
+  background-color:  rgb(41, 38, 37);
+}
+h2,h3{
+  color: yellow;
+}
+.cas{
+  border: solid 2px red;
+}
+.cas h3{
+  display: inline-block;
+  padding-left: 8px;
+}
